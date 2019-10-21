@@ -44,7 +44,7 @@ struct page2: View {
             NavigationLink(destination: page3()) {
                 Text("Go to Page3")
             }
-        }.navigationBarTitle("Page3", displayMode: .inline)
+        }.navigationBarTitle("Page2", displayMode: .inline)
     }
 }
 
